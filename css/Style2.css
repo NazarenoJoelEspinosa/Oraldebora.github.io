@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/Fondo\ Orales.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.Texto{
+    background-color: bisque;
+    margin: 80px;
+    padding: 20px;
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
